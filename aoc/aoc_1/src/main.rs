@@ -1,7 +1,6 @@
 use aoc_util;
 use aoc_util::get_numeric_input;
 
-
 fn main() {
     part1();
     part2();
